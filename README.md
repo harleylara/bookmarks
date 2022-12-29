@@ -22,7 +22,7 @@ Just a collection of my personal bookmarks.
     - AI, ML, DL, RL
     - Flow-based Programming
 - [Web-World](./web-world.md)
-    - Diagraming tools
+    - Diagramming tools
     - Canvas
     - Web and 3D
 - [Design](./design.md)
