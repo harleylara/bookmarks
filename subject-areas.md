@@ -14,7 +14,7 @@
 - [State Estimation for Robotics](https://www.cambridge.org/core/books/state-estimation-for-robotics/AC0E0AC229C55203B3C8F106BCB61F48) by Timothy D. Barfoot
 - [Programming Robots with ROS](https://www.oreilly.com/library/view/programming-robots-with/9781449325480/) by Brian Gerkey, Morgan L. Quigley, and William D. Smart
 - [Probabilistic Robotics](http://www.probabilistic-robotics.org/) by Dieter Fox, Wolfram Burgard, Sebastian Thrun
-- [Robotics, Vision and Control](https://link.springer.com/book/10.1007/978-3-319-54413-7) by Peter Corke
+- [Robotics, Vision and Control](https://link.springer.com/book/10.1007/978-3-319-54413-7) by Peter Corke:
 - [Springer Handbook of Robotics](https://link.springer.com/book/10.1007/978-3-540-30301-5)
 - [Robotics for Programmers](https://www.manning.com/books/robotics-for-programmers) by Andreas Bihlmaier
 
