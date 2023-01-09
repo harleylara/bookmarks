@@ -81,6 +81,10 @@
 - [Crazyflie](https://www.bitcraze.io/) by bitcraze
 - [Pluto X](https://www.dronaaviation.com/plutox) by Drona Aviation
 
+## Embedded Systems
+
+- [Embedded Systems Glossary](https://barrgroup.com/embedded-systems/glossary)
+
 ## Hardware (misc)
 
 - [Collection of DC/DC Converters, Battery Chargers and Power Supplies](https://github.com/wagiminator/Power-Boards) by Stefan Wagner
