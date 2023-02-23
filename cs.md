@@ -29,3 +29,7 @@
 ## Flow-based programming
 
 - [Flow-based Programming](https://jpaulm.github.io/fbp/index.html) by J. Paul Rodker Morrison
+
+## Awesome Lists
+
+- [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
