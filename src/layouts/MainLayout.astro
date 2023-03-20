@@ -1,0 +1,37 @@
+---
+import type { MarkdownHeading } from 'astro';
+import type { CollectionEntry } from 'astro:content';
+import HeadCommon from '../components/HeadCommon.astro';
+import HeadSEO from '../components/HeadSEO.astro';
+
+import { SITE } from '../consts';
+
+type Props = CollectionEntry<'bookmarks'>['data'] & {
+	headings: MarkdownHeading[];
+};
+
+const { headings, ...data } = Astro.props;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+---
+
+<html dir={data.dir} lang={data.lang}>
+    <head>
+        <HeadCommon/> 
+        <HeadSEO {...data} canonicalUrl={canonicalURL} />
+        <title>
+            {`${data.title} - ${SITE.title}`}
+        </title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <body class="prose prose-invert bg-black font-roboto prose-h1:border-b prose-h1:pb-4 overflow-hidden">
+        <article class="flex items-center justify-center w-screen pt-8">
+            <div>
+                <a href="/">Back to index</a>
+                <div class="w-[720px]">
+                    <slot />
+                </div>
+            </div>
+        </article>
+    </body>
+</html>

@@ -1,0 +1,9 @@
+---
+const {title, href} = Astro.props;
+---
+
+<div class="group not-prose p-4 hover:bg-white">
+    <a href={href}>
+        <h2 class="text-2xl font-bold text-white group-hover:text-black">{title}</h2>
+    </a>
+</div>

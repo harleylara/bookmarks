@@ -1,15 +1,31 @@
 ---
+import Card from "../components/Card.astro";
 ---
 
 <html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
+    <head>
+        <meta charset="utf-8" />
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <meta name="viewport" content="width=device-width" />
+        <meta name="generator" content={Astro.generator} />
+        <title>Bookmarks - Harley Lara</title>
+    </head>
+    <body class="prose prose-invert bg-black font-roboto prose-h1:border-b prose-h1:pb-4">
+        <div class="flex items-center justify-center w-screen pt-8">
+            <div class="w-[720px]">
+                <h1 class="prose-h1:border-b prose-h1:pb-4">Bookmarks</h1>
+                <p>
+                    This page is a collection my personal Bookmarks on topics of
+                    my interest.
+                </p>
+                <div class="flex flex-col gap-8">
+                    <Card href="/tools" title="My Dev Tools" />
+                    <Card href="/eng" title="Engineering" />
+                    <Card href="/cs" title="Computer Science" />
+                    <Card href="/design" title="Design" />
+                    <Card href="/web" title="Web" />
+                </div>
+            </div>
+        </div>
+    </body>
 </html>
