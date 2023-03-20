@@ -1,3 +1,7 @@
+---
+title: Design
+---
+
 # Design
 
 - [The Design System](https://thedesignsystem.guide/)

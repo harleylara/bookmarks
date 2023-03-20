@@ -1,6 +1,8 @@
-# Subject Areas
+---
+title: Subject Areas
+---
 
-[[toc]]
+# Subject Areas
 
 ## Robotics
 

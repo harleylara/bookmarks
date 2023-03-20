@@ -1,4 +1,7 @@
-# Web World
+---
+title: Web Stuff
+---
+# Web Stuff
 
 ## Diagrams
 

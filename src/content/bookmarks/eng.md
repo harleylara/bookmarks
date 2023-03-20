@@ -1,7 +1,7 @@
 ---
-title: "Engineering Bookmarks"
-description: A collection of engineering realeted bookmarks
+title: Engineering
 ---
+
 # Engineering
 
 A collection of engineering realeted bookmarks.
