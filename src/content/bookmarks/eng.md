@@ -42,7 +42,7 @@ Books:
 ## Math
 
 - [Latex Mathematical Symbols](https://www.caam.rice.edu/~heinken/latex/symbols.pdf)
-- [The Matrix Cookbook](math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) by Kaare Brandt Petersen and Michael Syskind Pedersen
+- [The Matrix Cookbook](https://math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) by Kaare Brandt Petersen and Michael Syskind Pedersen
 - [Discrete Mathematics](https://discrete.openmathbooks.org/dmoi3.html) by Oscar Levin
 - [Matrix Computations (Johns Hopkins Studies in the Mathematical Sciences)](https://www.amazon.de/-/en/Gene-H-Golub/dp/1421407949) by Gene H. Golub
 - [The Nature of Mathematical Modeling](https://fab.cba.mit.edu/classes/864.20/index.html) by Neil Gershenfeld
