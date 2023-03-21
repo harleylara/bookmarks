@@ -22,7 +22,7 @@ My set of development include:
 ## Docs Enhancement
 
 - [Flameshot](https://flameshot.org/) "Powerful, yet simple to use open-source screenshot software."
-- [Draw.io or Diagrams.net](https://app.diagrams.net/) "is free onlin:e diagram software for making flowcharts, process di:agrams, org charts, UML, ER and network diagrams."
+- [Draw.io or Diagrams.net](https://app.diagrams.net/) "is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams."
 - [Excalidraw](https://excalidraw.com/) "It is a whiteboard tool that lets you easily sketch diagrams with a hand-drawn feel"
 - [Mermaid](https://mermaid-js.github.io/mermaid/#/) "Diagramming and charting tool"
 - [asciinema](https://asciinema.org/) "is a free and open source solution for recording terminal sessions and sharing them on the web."
