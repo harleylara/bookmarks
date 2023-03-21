@@ -27,11 +27,24 @@ title: Computer Science
 
 ## AI, ML, DL, RL
 
+- [Mathematics for Machine Learnin](https://mml-book.github.io/)
+
 **Neural Networks**:
 - [Neural Networks from Scratch](https://nnfs.io/)
 
 **Deep Learning**:
 - [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville.
+- [Dive into Deep Learning](http://d2l.ai/) by Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola, Et al.
+
+**Reinforcement Learning**:
+- [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+- [CUDA by Example: An Introduction to General-Purpose GPU Programming](https://www.amazon.com/CUDA-Example-Introduction-General-Purpose-Programming/dp/0131387685)
+
+## Computer Vision
+
+*Note: For robotics related Computer Vision check [Subject Areas](./subjects.md) under robotics section.*
+
+- [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/)
 
 ## Flow-based programming
 
