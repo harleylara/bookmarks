@@ -30,6 +30,9 @@ title: Computer Science
 **Neural Networks**:
 - [Neural Networks from Scratch](https://nnfs.io/)
 
+**Deep Learning**:
+- [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville.
+
 ## Flow-based programming
 
 - [Flow-based Programming](https://jpaulm.github.io/fbp/index.html) by J. Paul Rodker Morrison
