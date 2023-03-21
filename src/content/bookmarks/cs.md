@@ -42,7 +42,7 @@ title: Computer Science
 
 ## Computer Vision
 
-*Note: For robotics related Computer Vision check [Subject Areas](./subjects.md) under robotics section.*
+*Note: For robotics related Computer Vision check [Subject Areas](/subjects) under robotics section.*
 
 - [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/)
 
