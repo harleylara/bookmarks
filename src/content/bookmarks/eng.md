@@ -39,6 +39,12 @@ Books:
 **Courses**:
 - [MIT 6.S090 - Deep Learning for Control](https://pulkitag.github.io/rlbootcamp-iap/schedule.html)
 
+## Signaling
+
+- (Open Access) [Think DSP](https://greenteapress.com/wp/think-dsp/) by Allen B. Downey
+- (Open Access) [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm) by Steven W. Smith, Ph.D.
+- (Website) [Hack Audio](https://www.hackaudio.com/)
+
 ## Math
 
 - [Latex Mathematical Symbols](https://www.caam.rice.edu/~heinken/latex/symbols.pdf)
