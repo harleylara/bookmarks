@@ -10,10 +10,20 @@ title: Computer Science
 - [Computer Languages Timeline](https://www.levenez.com/lang/)
 - [Unix Timeline](https://www.levenez.com/unix/)
 
+**Python**:
+- (Open Access) [Python for Everybody](https://www.py4e.com/) by Dr. Charles R. Severance (Dr. Chuck)
+- (Open Access) [Think Python 2nd Edition](https://greenteapress.com/wp/think-python-2e/) by Allen B. Downey
+- (Open Access) [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
+- (Open Access) [Guide to NumPy](https://web.mit.edu/dvp/Public/numpybook.pdf) by Travis E. Oliphant, PhD
+- (Open Access) [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures/tree/master/) by Robert Johansson
+- (Open Access) [Advanced Python Development](https://link.springer.com/book/10.1007/978-1-4842-5793-7)
+- (Website) [Python GUIs](https://www.pythonguis.com/pyside6/)
+
 **C++**:
 - [Programming -- Principles and Practice Using C++](https://stroustrup.com/programming.html) "This is an introduction to programming for people who have never programmed before"
 - [A Tour of C++ (Third edition)](https://stroustrup.com/tour3.html) "The tour is a quick tutorial overview of all of standard C++ at a moderately high level for people who already know C++ or at least are experienced programmers."
 - [The C++ Programming Language (4th Edition)](https://stroustrup.com/4th.html) "If you are looking for a more complete description of C++ and the styles of programming it supports"
+- [C++ Programming - WikiBooks](https://en.wikibooks.org/wiki/C%2B%2B_Programming)
 
 **Rust**:
 - [The Rust Programming Language](https://doc.rust-lang.org/book/) by Steve Klabnik and Carol Nichols, with contributions from the Rust Community
