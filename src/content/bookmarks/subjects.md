@@ -13,6 +13,7 @@ title: Subject Areas
 - [Robotics Software Design and Engineering](https://www.intechopen.com/books/10416) by Alejandro R. Garcia R. and Augusto L. Da Costa
 
 **Books**:
+- [Introduction to Autonomous Mobile Robots 2nd Edition](http://www.mobilerobots.ethz.ch/) by Roland Siegwart, Illah R. Nourbakhsh and Davide Scaramuzza.
 - [State Estimation for Robotics](https://www.cambridge.org/core/books/state-estimation-for-robotics/AC0E0AC229C55203B3C8F106BCB61F48) by Timothy D. Barfoot
 - [Programming Robots with ROS](https://www.oreilly.com/library/view/programming-robots-with/9781449325480/) by Brian Gerkey, Morgan L. Quigley, and William D. Smart
 - [Probabilistic Robotics](http://www.probabilistic-robotics.org/) by Dieter Fox, Wolfram Burgard, Sebastian Thrun
