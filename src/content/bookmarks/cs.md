@@ -55,6 +55,7 @@ title: Computer Science
 
 ## AI, ML, DL, RL
 
+- [Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu/) by Stuart Russell and Peter Norvig
 - [Mathematics for Machine Learnin](https://mml-book.github.io/)
 
 **Neural Networks**:
