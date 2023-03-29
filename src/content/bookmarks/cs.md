@@ -73,6 +73,7 @@ title: Computer Science
 
 *Note: For robotics related Computer Vision check [Subject Areas](/subjects) under robotics section.*
 
+- [Computer Vision: Algorithms and Applications, 2nd ed.](https://szeliski.org/Book/) by Richard Szeliski
 - [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/)
 
 ## Flow-based programming
