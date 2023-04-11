@@ -53,6 +53,7 @@ Books:
 - [The Matrix Cookbook](https://math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) by Kaare Brandt Petersen and Michael Syskind Pedersen
 - [Discrete Mathematics](https://discrete.openmathbooks.org/dmoi3.html) by Oscar Levin
 - [The Nature of Mathematical Modeling](https://fab.cba.mit.edu/classes/864.20/index.html) by Neil Gershenfeld
+- [LATEX WikiBook](https://en.wikibooks.org/wiki/LaTeX)
 
 ## General Resources
 
