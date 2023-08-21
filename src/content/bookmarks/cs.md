@@ -33,6 +33,9 @@ title: Computer Science
 - [C++ Programming - WikiBooks](https://en.wikibooks.org/wiki/C%2B%2B_Programming)
 - [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 
+**C/C++ tootling**:
+- [CMake hands-on workshop](https://enccs.github.io/cmake-workshop/)
+
 **Javascript**:
 - [JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Modern JavaScript](https://www.modernjs.com/) by Daniel Rubio
