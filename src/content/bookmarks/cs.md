@@ -35,6 +35,7 @@ title: Computer Science
 
 **C/C++ tootling**:
 - [CMake hands-on workshop](https://enccs.github.io/cmake-workshop/)
+- [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
 
 **Javascript**:
 - [JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
