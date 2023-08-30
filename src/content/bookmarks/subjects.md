@@ -20,7 +20,7 @@ title: Subject Areas
 - [Robotics, Vision and Control](https://link.springer.com/book/10.1007/978-3-319-54413-7) by Peter Corke:
 - [Springer Handbook of Robotics](https://link.springer.com/book/10.1007/978-3-540-30301-5)
 - [Robotics for Programmers](https://www.manning.com/books/robotics-for-programmers) by Andreas Bihlmaier
-- [Planning Algorithms](http://lavalle.pl/planning/)
+- [Planning Algorithms](http://lavalle.pl/planning/) by Steven M. LaValle
 
 **ROS specific Books**:
 - (Open Access) [Programming Multiple Robots with ROS 2](https://osrf.github.io/ros2multirobotbook/intro.html) by Open Robotics
