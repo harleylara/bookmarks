@@ -34,6 +34,8 @@ Books:
 
 ## Mechanical
 
+- Engineering drawing and design by David P. Madsen and David A. Madsen
+
 ## Control
 
 **Courses**:
