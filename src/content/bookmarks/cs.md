@@ -72,7 +72,7 @@ title: Computer Science
 - [Dive into Deep Learning](http://d2l.ai/) by Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola, Et al.
 
 **Reinforcement Learning**:
-- [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+- [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
 - [CUDA by Example: An Introduction to General-Purpose GPU Programming](https://www.amazon.com/CUDA-Example-Introduction-General-Purpose-Programming/dp/0131387685)
 
 ## Computer Vision
