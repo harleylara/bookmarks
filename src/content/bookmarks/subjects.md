@@ -4,6 +4,12 @@ title: Subject Areas
 
 # Subject Areas
 
+## LaTeX
+
+- [The LaTeX Project](https://www.latex-project.org/get/)
+- [Learn LaTeX](https://www.learnlatex.org/en/)
+- [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+
 ## Robotics
 
 **Open Access Books**:
