@@ -11,13 +11,15 @@ My set of development include:
 
 ## Software Development
 
-- OS: Windows 11 with WSL2 (Ubuntu Focal)
+- OS: Tuxedo OS with Wayland
 - Editor: [Neovim](https://neovim.io/)
 - Terminal multiplexer: [tmux](https://github.com/tmux/tmux), [tmux cheat-sheet](https://acloudguru.com/blog/engineering/tmux-cheat-sheet)
-- Automation for windows: [AutoHotkey](https://www.autohotkey.com/)
-- Tiling Window Manager: [bung.n](https://github.com/fuhsjr00/bug.n) my config [here](https://github.com/harleylara/bug.n-config)
 - My configuration files: [dotfiles](https://github.com/harleylara/dotfiles) this repo contains all my config files for my development env.
 - My Automation scripts: [ansible automation](https://github.com/harleylara/ansible) this repo contains my automation scripts to setup my development env.
+
+Archive (I no longer use it):
+- Automation (Microsoft Windows): [AutoHotkey](https://www.autohotkey.com/)
+- Tiling Window Manager (Microsoft Windows): [bung.n](https://github.com/fuhsjr00/bug.n) my config [here](https://github.com/harleylara/bug.n-config)
 
 ## Docs Enhancement
 
