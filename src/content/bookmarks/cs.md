@@ -21,6 +21,7 @@ title: Computer Science
 - (Open Access) [Advanced Python Development](https://link.springer.com/book/10.1007/978-1-4842-5793-7)
 - (Website) [Python GUIs](https://www.pythonguis.com/pyside6/)
 - [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
+- (Website) [Python Design Patterns](https://python-patterns.guide/)
 
 **C**:
 - [The Definitive C Book Guide and List](https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list)
@@ -52,6 +53,13 @@ title: Computer Science
 ## Software Related
 
 - [Design Patterns - Refectoring Guru](https://refactoring.guru/design-patterns)
+
+## Networking
+
+- [Tcp/Ip Illustrated, Volume 1: The Protocols, 2nd Edition](https://www.oreilly.com/library/view/tcpip-illustrated-volume/9780132808200/) by Kevin R. Fall, W. Richard Stevens.
+- [Internetworking with TCP/IP Volume One, 6th Edition](https://www.oreilly.com/library/view/internetworking-with-tcpip/9780137464197/) by Douglas E. Comer.
+- [The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference](https://www.google.com/search?q=The+TCP%2FIP+Guide%3A+A+Comprehensive%2C+Illustrated+Internet+Protocols+Reference) by Charles M. Kozierok
+- [ZeroMQ: Messaging for Many Applications](https://www.google.com/search?q=zeromq+book) by Pieter Hintjens
 
 ## Theory of Computing
 
