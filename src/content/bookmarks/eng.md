@@ -39,7 +39,9 @@ Books:
 ## Control
 
 Books:
-- [Feedback Systems An Introduction for Scientists and Engineers](https://www.cds.caltech.edu/~murray/books/AM08/pdf/fbs-public_24Jul2020.pdf)
+- [Feedback Systems An Introduction for Scientists and Engineers](https://www.cds.caltech.edu/~murray/books/AM08/pdf/fbs-public_24Jul2020.pdf) by Karl Johan ˚Astr¨om and Richard M. Murray
+- [Modern Control Systems](https://files.crazt.moe/temp/Modern%20Control%20Systems%2013th.pdf) by Richard C. Dorf and Robert H. Bishop
+- [Modern Control Engineering](http://docs.znu.ac.ir/members/pirmohamadi_ali/Control/Katsuhiko%20Ogata%20_%20Modern%20Control%20Engineering%205th%20Edition.pdf) by Katsuhiko Ogata
 
 **Courses**:
 - [MIT 6.S090 - Deep Learning for Control](https://pulkitag.github.io/rlbootcamp-iap/schedule.html)
