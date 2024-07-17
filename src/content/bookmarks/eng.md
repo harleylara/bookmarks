@@ -38,6 +38,9 @@ Books:
 
 ## Control
 
+Books:
+- [Feedback Systems An Introduction for Scientists and Engineers](https://www.cds.caltech.edu/~murray/books/AM08/pdf/fbs-public_24Jul2020.pdf)
+
 **Courses**:
 - [MIT 6.S090 - Deep Learning for Control](https://pulkitag.github.io/rlbootcamp-iap/schedule.html)
 
