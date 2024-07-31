@@ -81,6 +81,7 @@ title: Computer Science
 
 **Reinforcement Learning**:
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
+- [Multi-Agent Reinforcement Learning: Foundations and Modern Approaches](https://www.marl-book.com/) by Stefano V. Albrecht,  Filippos Christianos,  Lukas Schäfer
 - [CUDA by Example: An Introduction to General-Purpose GPU Programming](https://www.amazon.com/CUDA-Example-Introduction-General-Purpose-Programming/dp/0131387685)
 
 ## Computer Vision
