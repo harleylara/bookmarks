@@ -1,5 +1,5 @@
 ---
-title: Computer Science
+title: Computer Sciencecs
 ---
 
 # Computer Science
@@ -76,8 +76,9 @@ title: Computer Science
 - [Neural Networks from Scratch](https://nnfs.io/)
 
 **Deep Learning**:
-- [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville.
-- [Dive into Deep Learning](http://d2l.ai/) by Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola, Et al.
+- (Open Access) [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen. 
+- (Open Access) [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville.
+- (Open Access) [Dive into Deep Learning](http://d2l.ai/) by Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola, Et al.
 
 **Reinforcement Learning**:
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
