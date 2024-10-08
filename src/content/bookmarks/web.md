@@ -1,7 +1,11 @@
 ---
 title: Web Stuff
 ---
-# Web Stuff
+
+# CSS
+
+- [Every Layout](https://every-layout.dev/) by heydon Pickering and Andy Bell
+- [Refactoring UI](https://www.refactoringui.com/) by Adam Walthan and Steve Schoger
 
 ## Diagrams
 
