@@ -67,3 +67,4 @@ Books:
 - [Factor of Safety (FOS)](https://www.engineeringtoolbox.com/factors-safety-fos-d_1624.html)
 - [The Engineering ToolBox](https://www.engineeringtoolbox.com/)
 - [Types of Screws and Bolts [Guide]](https://www.dailyinfographic.com/types-of-screws-and-bolts-guide)
+- [The Electronic Connector Book](https://connectorbook.com/) by Davide Andrea
