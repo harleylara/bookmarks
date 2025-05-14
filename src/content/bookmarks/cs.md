@@ -79,6 +79,7 @@ title: Computer Sciencecs
 - (Open Access) [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen. 
 - (Open Access) [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville.
 - (Open Access) [Dive into Deep Learning](http://d2l.ai/) by Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola, Et al.
+- (Open Access) [The Little Book of Deep Learning](https://fleuret.org/francois/lbdl.html) by François Fleuret.
 
 **Reinforcement Learning**:
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
