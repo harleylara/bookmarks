@@ -1,16 +1,9 @@
 import { defineConfig } from 'astro/config';
-
 import tailwindcss from '@tailwindcss/vite';
 
-// https://astro.build/config
 export default defineConfig({
-    vite: {
-        server: {
-            watch: {
-                usePolling: true
-            }
-        }
-    },
-    site: `https://bookmarks.harleylara.com`,
-    integrations: [tailwindcss()]
+  site: 'https://bookmarks.harleylara.com',
+  vite: {
+    plugins: [tailwindcss()],
+  },
 });

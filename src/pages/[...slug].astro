@@ -1,20 +1,28 @@
 ---
-import { CollectionEntry, getCollection } from 'astro:content';
+import { getCollection, render, type CollectionEntry } from 'astro:content';
 import MainLayout from '../layouts/MainLayout.astro';
+
+type Props = {
+  post: CollectionEntry<'bookmarks'>;
+};
+
 export async function getStaticPaths() {
-	const bookmarks = await getCollection('bookmarks');
-	return bookmarks.map((entry) => ({
-		params: {
-			slug: entry.slug,
-		},
-		props: entry,
-	}));
+  const bookmarks = await getCollection('bookmarks');
+
+  return bookmarks.map((post) => ({
+    params: {
+      slug: post.id,
+    },
+    props: {
+      post,
+    },
+  }));
 }
-type Props = CollectionEntry<'bookmarks'>;
-const post = Astro.props;
-const { Content, headings } = await post.render();
+
+const { post } = Astro.props;
+const { Content, headings } = await render(post);
 ---
 
 <MainLayout headings={headings} {...post.data}>
-	<Content />
+  <Content />
 </MainLayout>

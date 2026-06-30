@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --font-roboto: "Roboto", sans-serif;
+  --color-dark-50: #131313;
+}
